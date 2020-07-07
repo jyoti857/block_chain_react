@@ -1,0 +1,1 @@
+export const BasicURL = 'https://api.udilia.com/coins/v1';

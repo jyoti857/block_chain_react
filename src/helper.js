@@ -1,0 +1,1 @@
+export default response => response.json().then(data=> response.ok ? data : Promise.reject(data));
